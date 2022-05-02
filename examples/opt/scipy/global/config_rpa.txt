@@ -1,0 +1,10 @@
+input_rate_file = out_coeffs.csv
+rate_map_file = san_opt2.csv
+internal_pH = 4.5
+external_pH = 4.5
+internal_Cl_conc = 1 mol/m^3
+external_Cl_conc = 300 mol/m^3
+enzyme_MW = 503600 g/mol
+lipid_MW = 730 g/mol
+area_per_lipid = 6.15E-19 m^2
+enzyme_lipid_wtfrac = 5E-5
