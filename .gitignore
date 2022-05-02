@@ -1,0 +1,11 @@
+# Auto detect text files and perform LF normalization
+__pycache__/
+doc/Manual.aux
+doc/Manual.bbl
+doc/Manual.blg
+doc/Manual.idx
+doc/Manual.log
+doc/Manual.out
+doc/Manual.toc
+doc/compile.sh
+src/__pycache__/
